@@ -1,1 +1,204 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
 
+
+.topnav {
+    height: 6%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.headerLogo {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+
+}
+
+.home {
+    width: 50%;
+    display: flex;
+    align-self: center;
+    align-content: center;
+}
+
+.linkContainer {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    float: left;
+    width: auto;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+.container1 {
+    height: 20%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+}
+
+.headerTextBtn {
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.header {
+    display: flex;
+    flex-direction: flex-start;
+    align-items: flex-end;
+}
+
+.text {
+    display: flex;
+}
+
+.btn1 {
+    display: flex;
+
+}
+
+.image_placeholder {
+    height: 100%;
+    width: 50%;
+    background-color: #6d747d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.image_placeholder_text {
+    display: flex;
+    justify-content: center;
+
+}
+
+.container2 {
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+
+
+}
+
+.header2 {
+    display: flex;
+    justify-content: center;
+}
+
+.images {
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex: 1;
+}
+
+img {
+    display: flex;
+    width: 150px;
+    height: 100px;
+    border: 5px solid #3882f6;
+    border-radius: 15px;
+    flex: 0 1 auto;
+}
+
+.imageContainer1 {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+
+.imageContainer2 {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+
+.imageContainer3 {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+
+.imageContainer4 {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+
+.image1 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.image2 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.image3 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.image4 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.subtext {
+    text-align: center;
+}
+
+.container3 {
+    width: auto;
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.quoteContainer {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.container4 {
+    display: flex;
+    justify-content: center;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    margin: auto
+}
