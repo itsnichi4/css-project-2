@@ -285,9 +285,11 @@ img {
 }
 
 .copyright {
+    padding-bottom: 1%;
+    padding-top: 1%;
     display: flex;
     flex-direction:column;
-    justify-content: flex-end;
-    flex: 1;
-    align-self: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #f9faf8;
 }
